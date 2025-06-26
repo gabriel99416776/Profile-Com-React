@@ -5,7 +5,7 @@ export default function App(){
   return(
     <div className="app">
       <Profile 
-        avatar="https://randomuser.me/api/portraits/men/75.jpg"
+        avatar="https://avatars.githubusercontent.com/u/112978826?s=400&u=fe65528ffa6b8ea499e6277237dfa74549707277&v=4"
         name="Gabriel"
         bio="Font-end React/JS"
         email="gabrielfortaleza4@gmail.com"
